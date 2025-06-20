@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "export_timestamp": "2025-06-20T03:48:03.831562",
+    "total_businesses": 2,
+    "format_version": "1.0"
+  },
+  "businesses": [
+    {
+      "name": "Test Restaurant 1",
+      "address": "123 Main St, Test City, CA 94102",
+      "city": "Test City",
+      "state": "CA",
+      "postal_code": "94102",
+      "country": "",
+      "phone": "+1 (555) 123-4567",
+      "email": "contact@testrestaurant1.com",
+      "website": "https://testrestaurant1.com",
+      "category": "Restaurant",
+      "rating": 4.5,
+      "reviews_count": 127,
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "Test Restaurant 2",
+      "address": "456 Oak Ave, Test City, CA 94103",
+      "city": "Test City",
+      "state": "CA",
+      "postal_code": "94103",
+      "country": "",
+      "phone": "+1 (555) 234-5678",
+      "email": "info@testrestaurant2.com",
+      "website": "https://testrestaurant2.com",
+      "category": "Restaurant",
+      "rating": 4.2,
+      "reviews_count": 89,
+      "latitude": null,
+      "longitude": null
+    }
+  ]
+}

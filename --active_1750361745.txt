@@ -1,0 +1,107 @@
+warning: Indexes specified via `--index-url` will not be persisted to the `pyproject.toml` file; use `--default-index` instead.
+⠋ Resolving dependencies...                                                     ⠋ Resolving dependencies...                                                     ⠙ Resolving dependencies...                                                     ⠋ Resolving dependencies...                                                     ⠙ Resolving dependencies...                                                     ⠙ workspace==0.1.0                                                              ⠙ aiohttp==3.11.16                                                              ⠙ beautifulsoup4==4.13.4                                                        ⠙ click==8.2.1                                                                  ⠙ docstring-parser==0.16                                                        ⠙ docx2txt==0.9                                                                 ⠙ edge-tts==7.0.2                                                               ⠹ edge-tts==7.0.2                                                               ⠸ edge-tts==7.0.2                                                               ⠸ email-validator==2.2.0                                                        ⠼ email-validator==2.2.0                                                        ⠼ fastapi==0.115.13                                                             ⠼ html5lib==1.1                                                                 ⠼ httpx==0.28.1                                                                 ⠼ librosa==0.11.0                                                               ⠼ lxml==5.4.0                                                                   ⠼ matplotlib==3.10.3                                                            ⠼ networkx==3.5                                                                 ⠼ nltk==3.9.1                                                                   ⠼ numpy==2.2.6                                                                  ⠼ opencv-python==4.11.0.86                                                      ⠼ numpy==2.2.6                                                                  ⠼ numpy==2.2.6                                                                  ⠼ numpy==2.2.6                                                                  ⠼ numpy==2.2.6                                                                  ⠼ numpy==2.2.6                                                                  ⠼ numpy==2.2.6                                                                  ⠼ numpy==2.2.6                                                                  ⠼ openpyxl==3.1.5                                                               ⠼ pandas==2.3.0                                                                 ⠼ pdfplumber==0.11.7                                                            ⠼ phonenumbers==9.0.7                                                           ⠴ phonenumbers==9.0.7                                                           ⠦ phonenumbers==9.0.7                                                           ⠧ phonenumbers==9.0.7                                                           ⠧ pillow==11.2.1                                                                ⠧ playwright==1.52.0                                                            ⠧ pydantic==2.11.7                                                              ⠧ pydantic-core==2.33.2                                                         ⠧ pymupdf==1.26.1                                                               ⠧ pypdf2==3.0.1                                                                 ⠧ python-docx==1.2.0                                                            ⠧ python-pptx==1.0.2                                                            ⠧                                                                               Resolved 100 packages in 1.30s
+⠋ Resolving dependencies...                                                     ⠙ Resolving dependencies...                                                     ⠋ Resolving dependencies...                                                     ⠙ Resolving dependencies...                                                     ⠋ Resolving dependencies...                                                     ⠙ Resolving dependencies...                                                     ⠙ workspace==0.1.0                                                              ⠙ aiohttp==3.11.16                                                              ⠙ beautifulsoup4==4.13.4                                                        ⠙ click==8.2.1                                                                  ⠙ docstring-parser==0.16                                                        ⠙ docx2txt==0.9                                                                 ⠙ edge-tts==7.0.2                                                               ⠙ email-validator==2.2.0                                                        ⠙ fastapi==0.115.13                                                             ⠙ html5lib==1.1                                                                 ⠙ httpx==0.28.1                                                                 ⠙ librosa==0.11.0                                                               ⠙ lxml==5.4.0                                                                   ⠙ matplotlib==3.10.3                                                            ⠙ networkx==3.5                                                                 ⠙ nltk==3.9.1                                                                   ⠙ numpy==2.2.6                                                                  ⠙ opencv-python==4.11.0.86                                                      ⠋ Preparing packages... (0/0)                                                   ⠙ Preparing packages... (0/0)                                                   ⠙ Preparing packages... (0/7)                                                      Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)                                                      Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+uvicorn    ------------------------------     0 B/60.97 KiB                        Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+uvicorn    ------------------------------ 8.00 KiB/60.97 KiB                       Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+email-validator ------------------------------     0 B/32.74 KiB
+uvicorn    ------------------------------ 8.00 KiB/60.97 KiB                       Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+email-validator ------------------------------ 8.00 KiB/32.74 KiB
+uvicorn    ------------------------------ 8.00 KiB/60.97 KiB                       Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+email-validator ------------------------------ 8.00 KiB/32.74 KiB
+uvicorn    ------------------------------ 16.00 KiB/60.97 KiB                      Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+email-validator ------------------------------ 8.00 KiB/32.74 KiB
+uvicorn    ------------------------------ 16.00 KiB/60.97 KiB
+phonenumbers ------------------------------     0 B/2.46 MiB                       Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+email-validator ------------------------------ 8.00 KiB/32.74 KiB
+uvicorn    ------------------------------ 16.00 KiB/60.97 KiB
+phonenumbers ------------------------------ 8.00 KiB/2.46 MiB                      Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+email-validator ------------------------------ 8.00 KiB/32.74 KiB
+uvicorn    ------------------------------ 16.00 KiB/60.97 KiB
+phonenumbers ------------------------------ 16.00 KiB/2.46 MiB                     Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+email-validator ------------------------------ 8.00 KiB/32.74 KiB
+uvicorn    ------------------------------ 24.00 KiB/60.97 KiB
+phonenumbers ------------------------------ 16.00 KiB/2.46 MiB                     Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+email-validator ------------------------------ 8.00 KiB/32.74 KiB
+uvicorn    ------------------------------ 24.00 KiB/60.97 KiB
+fastapi    ------------------------------     0 B/93.08 KiB
+phonenumbers ------------------------------ 16.00 KiB/2.46 MiB                     Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+email-validator ------------------------------ 8.00 KiB/32.74 KiB
+uvicorn    ------------------------------ 24.00 KiB/60.97 KiB
+fastapi    ------------------------------ 8.00 KiB/93.08 KiB
+phonenumbers ------------------------------ 16.00 KiB/2.46 MiB                     Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+email-validator ------------------------------ 16.00 KiB/32.74 KiB
+uvicorn    ------------------------------ 24.00 KiB/60.97 KiB
+fastapi    ------------------------------ 8.00 KiB/93.08 KiB
+phonenumbers ------------------------------ 16.00 KiB/2.46 MiB                     Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+email-validator ------------------------------ 16.00 KiB/32.74 KiB
+uvicorn    ------------------------------ 24.00 KiB/60.97 KiB
+fastapi    ------------------------------ 16.00 KiB/93.08 KiB
+phonenumbers ------------------------------ 16.00 KiB/2.46 MiB                     Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+email-validator ------------------------------ 24.00 KiB/32.74 KiB
+uvicorn    ------------------------------ 24.00 KiB/60.97 KiB
+fastapi    ------------------------------ 16.00 KiB/93.08 KiB
+phonenumbers ------------------------------ 16.00 KiB/2.46 MiB                     Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+email-validator ------------------------------ 24.00 KiB/32.74 KiB
+uvicorn    ------------------------------ 24.00 KiB/60.97 KiB
+starlette  ------------------------------     0 B/70.35 KiB
+fastapi    ------------------------------ 16.00 KiB/93.08 KiB
+phonenumbers ------------------------------ 16.00 KiB/2.46 MiB                     Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+email-validator ------------------------------ 24.00 KiB/32.74 KiB
+uvicorn    ------------------------------ 24.00 KiB/60.97 KiB
+starlette  ------------------------------ 8.00 KiB/70.35 KiB
+fastapi    ------------------------------ 16.00 KiB/93.08 KiB
+phonenumbers ------------------------------ 16.00 KiB/2.46 MiB                     Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+uvicorn    ------------------------------ 24.00 KiB/60.97 KiB
+starlette  ------------------------------ 16.00 KiB/70.35 KiB
+fastapi    ------------------------------ 32.00 KiB/93.08 KiB
+dnspython  ------------------------------ 16.00 KiB/306.28 KiB
+phonenumbers ------------------------------ 47.25 KiB/2.46 MiB                     Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+starlette  ------------------------------ 64.00 KiB/70.35 KiB
+fastapi    ------------------------------ 80.00 KiB/93.08 KiB
+dnspython  ------------------------------ 111.27 KiB/306.28 KiB
+phonenumbers ------------------------------ 221.91 KiB/2.46 MiB                    Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+fastapi    ------------------------------ 88.00 KiB/93.08 KiB
+dnspython  ------------------------------ 143.27 KiB/306.28 KiB
+phonenumbers ------------------------------ 221.91 KiB/2.46 MiB                    Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+dnspython  ------------------------------ 159.27 KiB/306.28 KiB
+phonenumbers ------------------------------ 221.91 KiB/2.46 MiB                    Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+phonenumbers ------------------------------ 279.25 KiB/2.46 MiB                    Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+phonenumbers ------------------------------ 583.25 KiB/2.46 MiB                    Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)
+phonenumbers ------------------------------ 1.12 MiB/2.46 MiB                      Building workspace @ file:///workspace
+⠙ Preparing packages... (0/7)                                                      Building workspace @ file:///workspace
+⠹ Preparing packages... (6/7)                                                      Building workspace @ file:///workspace
+⠸ Preparing packages... (6/7)                                                         Built workspace @ file:///workspace
+⠸ Preparing packages... (6/7)                                                   ⠸  (7/7)                                                                        Prepared 7 packages in 574ms
+Uninstalled 1 package in 0.22ms
+░░░░░░░░░░░░░░░░░░░░ [0/0] Installing wheels...                                 ░░░░░░░░░░░░░░░░░░░░ [0/7] Installing wheels...                                 ░░░░░░░░░░░░░░░░░░░░ [0/7] email-validator==2.2.0                               ██░░░░░░░░░░░░░░░░░░ [1/7] email-validator==2.2.0                               ██░░░░░░░░░░░░░░░░░░ [1/7] uvicorn==0.34.3                                      █████░░░░░░░░░░░░░░░ [2/7] uvicorn==0.34.3                                      █████░░░░░░░░░░░░░░░ [2/7] starlette==0.46.2                                    ████████░░░░░░░░░░░░ [3/7] starlette==0.46.2                                    ████████░░░░░░░░░░░░ [3/7] fastapi==0.115.13                                    ███████████░░░░░░░░░ [4/7] fastapi==0.115.13                                    ███████████░░░░░░░░░ [4/7] dnspython==2.7.0                                     ██████████████░░░░░░ [5/7] dnspython==2.7.0                                     ██████████████░░░░░░ [5/7] phonenumbers==9.0.7                                  █████████████████░░░ [6/7] phonenumbers==9.0.7                                  █████████████████░░░ [6/7] workspace==0.1.0 (from file:///workspace)            ████████████████████ [7/7] workspace==0.1.0 (from file:///workspace)            Installed 7 packages in 10ms
+ + dnspython==2.7.0
+ + email-validator==2.2.0
+ + fastapi==0.115.13
+ + phonenumbers==9.0.7
+ + starlette==0.46.2
+ + uvicorn==0.34.3
+ ~ workspace==0.1.0 (from file:///workspace)
